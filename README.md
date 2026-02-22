@@ -21,25 +21,23 @@ I build **scalable, maintainable web applications** that solve real-world proble
 
 ## 📂 Projects
 
-| Project                               | Description                                                                     | Tech                                                   | Live Demo                                                 |
-| ------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------- |
-| **Spots**                             | Social media web app for adding, liking, deleting photos                        | HTML, CSS, JS, CSS Grid, Figma                         | [View](https://velasqfr.github.io/se_project_spots/)      |
-| **Franky's Cafè Shop**                | Responsive coffee shop webpage with menu, booking form, and animations          | HTML, CSS, Flexbox, Form validation, CSS animations    | [View](https://velasqfr.github.io/se_project_coffeeshop/) |
-| **Triple Peaks Library**              | Library webpage with events, staff picks, membership steps                      | HTML, CSS, Flexbox, Positioning, z-index               | [View](https://velasqfr.github.io/se_project_library/)    |
-| **News Explorer**                     | SPA fetching and displaying news articles dynamically via REST API              | React, JS, REST API, Vite                              | [View](https://velasqfr.github.io/news_explorer/)         |
-| **WTWR (Weather-Based Wardrobe App)** | Full-stack app providing personalized clothing recommendations based on weather | React, Node.js, Express, MongoDB, JWT, OpenWeather API | [View](https://wtwr-96.mine.bz)                           |
+| Project                                  | Description                                                                  | Tech Stack                                             | How to Run / View                                              |
+| ---------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
+| **Spots (Project 6)** 🖼️                 | Social media web app for adding, liking, and deleting posts                  | HTML, CSS, JS, CSS Grid, Figma                         | [View Live](https://velasqfr.github.io/se_project_spots/)      |
+| **Spots JS (Project 9)** ⚡              | Enhanced Spots with modular JS, Webpack, dynamic behavior                    | HTML, CSS, JS (ES6 Modules), Webpack, Babel            | Clone repo → `npm install` → `npm run dev` → open localhost    |
+| **Triple Peaks Library** 📚              | Library webpage with events, staff picks, and membership steps               | HTML, CSS, Flexbox, Positioning                        | [View Live](https://velasqfr.github.io/se_project_library/)    |
+| **Franky's Café Shop** ☕                | Responsive coffee shop webpage with menu, booking form, and animations       | HTML, CSS, Flexbox, Form Validation, CSS Animations    | [View Live](https://velasqfr.github.io/se_project_coffeeshop/) |
+| **News Explorer** 📰                     | SPA fetching and displaying news articles dynamically via REST API           | React, JS, REST API, Vite                              | Clone repo → `npm install` → `npm run dev` → open localhost    |
+| **WTWR (Weather-Based Wardrobe App)** 🌤️ | Full-stack app giving personalized clothing recommendations based on weather | React, Node.js, Express, MongoDB, JWT, OpenWeather API | Clone repo → `npm install` → `npm run dev` → open localhost    |
 
----
-
-## 📈 Future Plans / Improvements
-
-- Add authentication and backend storage to Spots and WTWR
-- Introduce dynamic filtering and search features for News Explorer
-- Enhance accessibility and responsive design across all projects
-- Add multi-page layouts and more CSS animations to Coffeeshop and Library
-
----
-
-## 📈 GitHub Stats
-
-![Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=velasqfr&show_icons=true&theme=radical)
+Note: Static HTML/CSS projects can run live via GitHub Pages. JS module projects require building locally (npm run dev ) or deploying via Netlify/Vercel.
+& Future Plans
+• Add authentication & backend storage to Spots JS and WTWR
+• Introduce dynamic filtering and search in News Explorer
+• Improve accessibility and responsive design across all projects
+• Add multi-page layouts and more CSS animations for Coffeeshop and Library
+• Quick Tech Stack Overview
+• Frontend: HTML5, CSS3, JavaScript (ES6+), React.js
+• Backend: Node.js, Express.js, MongoDB, JWT
+• Build Tools: Webpack, Babel, Vite
+• Other Tools: Git, GitHub, ESLint, Prettier
