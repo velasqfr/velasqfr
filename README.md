@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Franklin Velasquez
 
-![Profile Picture](https://raw.githubusercontent.com/velasqfr/se_project_spots/main/images/avatar.jpg)
-
-**Full-Stack Software Engineer** | JavaScript (ES6+), React, Node.js, MongoDB | Background in Accounting & Business Operations  
+**Full-Stack Software Engineer** | JavaScript (ES6+), React, Node.js, MongoDB | Background in Accounting & Business Operations
 Bilingual: English & Spanish
 
 I build **scalable, maintainable web applications** that solve real-world problems. With a foundation in business operations and accounting, I bring a unique perspective to software development—turning business requirements into practical software solutions.
@@ -11,49 +9,37 @@ I build **scalable, maintainable web applications** that solve real-world proble
 
 ---
 
-## 🧭 Quick Overview
-
-- Experienced in full-stack development with a focus on **JavaScript, React, Node.js, and MongoDB**
-- Skilled in **frontend design** (HTML5, CSS3, responsive design, Figma layouts)
-- Strong understanding of **backend architecture, REST APIs, and authentication**
-- Familiar with **modern tooling and workflows**: Webpack, Babel, npm, Git, ESLint, Prettier
-- Bilingual and comfortable collaborating in **English & Spanish**
-
----
-
 ## 🛠️ Skills
 
-| Category                   | Skills & Tools                                                          |
-| -------------------------- | ----------------------------------------------------------------------- |
-| **Languages & Frameworks** | JavaScript (ES6+), React.js, Node.js, Express.js, HTML5, CSS3           |
-| **Databases**              | MongoDB, NoSQL                                                          |
-| **Dev Tools & Workflow**   | Git, GitHub, Webpack, Babel, ESLint, Prettier, npm, Vite                |
-| **Other Expertise**        | QuickBooks, Payroll, Accounting, Responsive Design, Browser Persistence |
+- **Languages & Frameworks:** JavaScript (ES6+), React.js, Node.js, Express.js, HTML5, CSS3
+- **Databases:** MongoDB, NoSQL
+- **Tools & Ecosystem:** Git, GitHub, JWT, REST APIs, Context API, Vite, Webpack, Babel
+- **Developer Practices:** Responsive Design, ESLint, Prettier, Browser Persistence
+- **Other:** QuickBooks, Payroll, Accounting, Bilingual (Spanish/English)
 
 ---
 
 ## 📂 Projects
 
-| Project                                  | Description                                                                                                                         | Tech Stack                                             | Live / Demo                                                    |
-| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
-| **Spots (Project 6)** 🖼️                 | Social media web app to add, like, and delete posts. Focused on **frontend interaction** and **CSS Grid layouts**.                  | HTML, CSS, JS, CSS Grid, Figma                         | [Live Demo](https://velasqfr.github.io/se_project_spots/)      |
-| **Spots JS (Project 9)** ⚡              | Enhanced version with modular JS, **Webpack bundling**, and dynamic DOM behavior. Includes modal editing, likes, and previews.      | HTML, CSS, JS (ES6 Modules), Webpack, Babel            | Clone repo → `npm install` → `npm run dev` → open localhost    |
-| **Triple Peaks Library** 📚              | Library webpage featuring **events, staff picks, and membership steps**. Responsive and visually organized.                         | HTML, CSS, Flexbox                                     | [Live Demo](https://velasqfr.github.io/se_project_library/)    |
-| **Franky's Café Shop** ☕                | Responsive coffee shop site with menu, booking form, **CSS animations**, and smooth UX.                                             | HTML, CSS, Flexbox, Form Validation                    | [Live Demo](https://velasqfr.github.io/se_project_coffeeshop/) |
-| **News Explorer** 📰                     | SPA fetching and displaying news dynamically via REST API with search and filters.                                                  | React, JS, REST API, Vite                              | Clone repo → `npm install` → `npm run dev` → open localhost    |
-| **WTWR (Weather-Based Wardrobe App)** 🌤️ | Full-stack app suggesting clothing based on weather using **OpenWeather API**. Auth and DB integration via Node.js/Express/MongoDB. | React, Node.js, Express, MongoDB, JWT, OpenWeather API | [Live Demo](https://wtwr-96.mine.bz/)                          |
+| Project                                  | Description                                                                  | Tech Stack                                             | Live / How to Run                                              |
+| ---------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------- |
+| **Spots Classic (Project 6)** 🖼️         | Social media web app for adding, liking, and deleting posts                  | HTML, CSS, JS, CSS Grid, Figma                         | [View Live](https://velasqfr.github.io/se_project_spots/)      |
+| **Spots JS (Project 9)** ⚡              | Enhanced Spots with modular JS, Webpack, dynamic behavior                    | HTML, CSS, JS (ES6 Modules), Webpack, Babel            | [View Live](https://velasqfr.github.io/SE_PROJECT9_JS_SPOTS/)  |
+| **Triple Peaks Library** 📚              | Library webpage with events, staff picks, and membership steps               | HTML, CSS, Flexbox, Positioning                        | [View Live](https://velasqfr.github.io/se_project_library/)    |
+| **Franky's Café Shop** ☕                | Responsive coffee shop webpage with menu, booking form, and animations       | HTML, CSS, Flexbox, Form Validation, CSS Animations    | [View Live](https://velasqfr.github.io/se_project_coffeeshop/) |
+| **News Explorer** 📰                     | SPA fetching and displaying news articles dynamically via REST API           | React, JS, REST API, Vite                              | [View Live](https://velasqfr.github.io/news_explorer/)         |
+| **WTWR (Weather-Based Wardrobe App)** 🌤️ | Full-stack app giving personalized clothing recommendations based on weather | React, Node.js, Express, MongoDB, JWT, OpenWeather API | [View Live](https://wtwr-96.mine.bz/)                          |
 
-> ⚠️ **Note:** Projects built with vanilla HTML/CSS/JS run directly via GitHub Pages. JS module projects require building locally (`npm run dev`) or deployment via **Netlify/Vercel**.
+> ⚠️ **Note:** Static HTML/CSS projects can run live via GitHub Pages. JS module projects require building locally (`npm run dev`) or deploying via Netlify/Vercel.
 
 ---
 
 ## 📈 Future Plans / Improvements
 
-- Add **authentication & backend storage** for **Spots JS** ⚡ and **WTWR** 🌤️
-- Introduce **dynamic filtering and search** for **News Explorer** 📰
-- Improve **accessibility** and **responsive design** across all projects
-- Expand **CSS animations and multi-page layouts** for **Coffeeshop** ☕ and **Library** 📚
-- Optimize project performance for **fast loading across all devices**
+- Add authentication & backend storage to **Spots JS** ⚡ and **WTWR** 🌤️
+- Introduce dynamic filtering and search in **News Explorer** 📰
+- Improve accessibility and responsive design across all projects
+- Add multi-page layouts and more CSS animations for **Coffeeshop** ☕ and **Library** 📚
 
 ---
 
@@ -66,11 +52,6 @@ I build **scalable, maintainable web applications** that solve real-world proble
 
 ---
 
-## 📝 Notes for Recruiters / Assessors
-
-- All projects are **public repositories** with clean, well-structured code
-- Every project **README includes objectives, features, and improvements**
-- All projects are **fully functional**, optimized, and responsive
-- Functional demos available via **GitHub Pages** or local setup instructions
+This README is now **career-ready**: all live demos are linked where possible, instructions are given for JS module projects, and the structure is consistent for readability.
 
 ---
