@@ -38,14 +38,17 @@ I build **scalable, maintainable web applications** that solve real-world proble
 
 ### Spots JS
 
+```bash
 git clone https://github.com/velasqfr/se_project_spots.git
 cd se_project_spots
 npm install
 npm run dev
-
 # open http://localhost:3000
+```
 
 ### WTWR – Weather-Based Wardrobe App
+
+Frontend
 
 Frontend
 git clone https://github.com/velasqfr/se_project_react.git
@@ -57,3 +60,7 @@ Backend
 cd ../se_project_express
 npm install
 npm start
+
+```
+
+```
