@@ -49,7 +49,6 @@ npm run dev
 ### WTWR – Weather-Based Wardrobe App
 
 ```bash
-Frontend
 
 Frontend
 git clone https://github.com/velasqfr/se_project_react.git
