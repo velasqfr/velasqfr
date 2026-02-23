@@ -48,6 +48,7 @@ npm run dev
 
 ### WTWR – Weather-Based Wardrobe App
 
+```bash
 Frontend
 
 Frontend
@@ -56,11 +57,9 @@ cd se_project_react
 npm install
 npm run dev
 
+
 Backend
 cd ../se_project_express
 npm install
 npm start
-
-```
-
 ```
