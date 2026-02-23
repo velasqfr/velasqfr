@@ -21,14 +21,14 @@ I build **scalable, maintainable web applications** that solve real-world proble
 
 ## 📂 Projects
 
-| Project                                  | Description                                                                                                                                                          | Tech Stack                                                    | Live / How to Run                                                                                                                                                                        |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Spots Classic** 🖼️                     | Social media web app for adding, liking, and deleting posts                                                                                                          | HTML, CSS, JS, CSS Grid, Figma                                | [View Live](https://velasqfr.github.io/se_project_spots_classic/)                                                                                                                        |
-| **Spots JS** ⚡                          | Enhanced Spots with modular JS, Webpack, dynamic behavior                                                                                                            | HTML, CSS, JS (ES6 Modules), Webpack, Babel                   | [View Live](https://velasqfr.github.io/se_project_spots/) or run locally: `npm install` → `npm run dev` → open `localhost`                                                               |
-| **Triple Peaks Library** 📚              | Library webpage with events, staff picks, and membership steps                                                                                                       | HTML, CSS, Flexbox, Positioning                               | [View Live](https://velasqfr.github.io/se_project_library/)                                                                                                                              |
-| **Franky's Café Shop** ☕                | Responsive coffee shop webpage with menu, booking form, and animations                                                                                               | HTML, CSS, Flexbox, Form Validation, CSS Animations           | [View Live](https://velasqfr.github.io/se_project_coffeeshop/)                                                                                                                           |
-| **News Explorer** 📰                     | SPA fetching and displaying news articles dynamically via REST API                                                                                                   | React, JS, REST API, Vite                                     | [View Live](https://velasqfr.github.io/news_explorer/)                                                                                                                                   |
-| **WTWR (Weather-Based Wardrobe App)** 🌤️ | Full-stack app giving personalized clothing recommendations based on weather. Users can register, log in, add, like, and delete clothing items, and manage profiles. | React (Vite), Node.js, Express, MongoDB, JWT, OpenWeather API | [Live Demo](https://keen-clafoutis-fb8712.netlify.app/) / [Frontend Repo](https://github.com/velasqfr/se_project_react) / [Backend Repo](https://github.com/velasqfr/se_project_express) |
+| Project                                  | Description                                                                                                                                                          | Tech Stack                                                    | Live / How to Run                                                                                                                                                                              |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Spots Classic** 🖼️                     | Social media web app for adding, liking, and deleting posts                                                                                                          | HTML, CSS, JS, CSS Grid, Figma                                | [View Live](https://velasqfr.github.io/se_project_spots_classic/)                                                                                                                              |
+| **Spots JS** ⚡                          | Enhanced Spots with modular JS, Webpack, dynamic behavior                                                                                                            | HTML, CSS, JS (ES6 Modules), Webpack, Babel                   | [View Live](https://velasqfr.github.io/se_project_spots/) or run locally: `npm install` → `npm run dev` → open `localhost`                                                                     |
+| **Triple Peaks Library** 📚              | Library webpage with events, staff picks, and membership steps                                                                                                       | HTML, CSS, Flexbox, Positioning                               | [View Live](https://velasqfr.github.io/se_project_library/)                                                                                                                                    |
+| **Franky's Café Shop** ☕                | Responsive coffee shop webpage with menu, booking form, and animations                                                                                               | HTML, CSS, Flexbox, Form Validation, CSS Animations           | [View Live](https://velasqfr.github.io/se_project_coffeeshop/)                                                                                                                                 |
+| **News Explorer** 📰                     | SPA fetching and displaying news articles dynamically via REST API                                                                                                   | React, JS, REST API, Vite                                     | [View Live](https://velasqfr.github.io/news_explorer/)                                                                                                                                         |
+| **WTWR (Weather-Based Wardrobe App)** 🌤️ | Full-stack app giving personalized clothing recommendations based on weather. Users can register, log in, add, like, and delete clothing items, and manage profiles. | React (Vite), Node.js, Express, MongoDB, JWT, OpenWeather API | [Live React Demo](https://keen-clafoutis-fb8712.netlify.app/) / [Frontend Repo](https://github.com/velasqfr/se_project_react) / [Backend Repo](https://github.com/velasqfr/se_project_express) |
 
 > ⚠️ Note: Static HTML/CSS projects can run live via GitHub Pages. JS module projects require building locally (npm run dev) or deploying via Netlify/Vercel. WTWR dynamic features require the backend repo to be running; frontend-only live demo displays the UI and static data.
 
@@ -65,7 +65,7 @@ WTWR is a full-stack weather web app that helps users pick clothing items suited
   - Edit user profile (name & avatar)
   - Toggle between temperature units (°F/°C)
 
-### Technologies and Techniques
+### ⚙️ Technologies and Techniques
 
 - Frontend: React (Vite)
 - Backend: Express.js (Node.js)
@@ -76,19 +76,19 @@ WTWR is a full-stack weather web app that helps users pick clothing items suited
 - Styling: Responsive CSS
 - Developer Tools: Prettier, ESLint, Vite Dev Server
 
-### Backend API Overview
+### 🔑 Backend API Overview
 
-- **Auth Endpoints**
+- **🛡️ Auth Endpoints**
   - `POST /signup` — Register new user
   - `POST /signin` — Log in
-- **User Endpoints**
+- **👤 User Endpoints**
   - `GET /users/me` — Get current user info
   - `PATCH /users/me` — Update profile info
-- **Clothing Item Endpoints**
+- **🧥 Clothing Item Endpoints**
   - `GET /items` — Fetch all items
   - `POST /items` — Add new item
   - `DELETE /items/:itemId` — Delete item by ID
-- **Like Endpoints**
+- **❤️ Like Endpoints**
   - `PUT /items/:itemId/likes` — Like an item
   - `DELETE /items/:itemId/likes` — Remove like
 
@@ -96,7 +96,7 @@ WTWR is a full-stack weather web app that helps users pick clothing items suited
 
 ---
 
-### Installation & Running Locally
+### 💻 Installation & Running Locally
 
 ```bash
 # Clone frontend repo
